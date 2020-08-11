@@ -1,7 +1,7 @@
 # GifExpertApp
 Esta aplicación ha sido creada con el proopsito de aprender a cómo usar [React](https://es.reactjs.org/).
 
-![foto](https://i.imgur.com/BGM1K33.png)
+![foto](https://i.imgur.com/hNJGCNa.png)
 
 ## Características técnicas de la aplicación
 
