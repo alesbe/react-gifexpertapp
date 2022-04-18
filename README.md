@@ -1,30 +1,29 @@
 # GifExpertApp
-Esta aplicación ha sido creada con el proopsito de aprender a cómo usar [React](https://es.reactjs.org/).
+This app was made with the prupose of learning [React](https://es.reactjs.org/).
 
-![foto](https://i.imgur.com/hNJGCNa.png)
+![screenshot](https://i.imgur.com/hNJGCNa.png)
 
-## Características técnicas de la aplicación
+## Techincal features
 
 ### React
-- Uso de Functional Components
-- Uso de hooks (useState y useEffect)
-- Uso de custom hooks
+- Functional components
+- Hooks (useState and useEffect)
+- Custom hooks
 
-### Estilo
-- HTML y CSS nativo (sin librerías de estilo)
-- Animaciones CSS con [Animate.css](https://animate.style/)
+### Style
+- Custom CSS animations [Animate.css](https://animate.style/)
 
-### Otros
-- Testeo de la aplicación con [JEST](https://jestjs.io/)
+### Others
+- App testing with [JEST](https://jestjs.io/)
 - [Giphy API](https://developers.giphy.com/)
 
-## Instalación
-Para instalar las dependencias
+## Install
+Install dependencies:
 ```
 npm install
 ```
 
-Para crear la build
+Run app:
 ```
 npm run build
 ```
